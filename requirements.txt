@@ -1,0 +1,5 @@
+timm
+einops
+pthflops
+torchsummary
+thop
